@@ -44,7 +44,9 @@ YOUTUBE_API_KEY = "AIzaSyCMHMYV3ug24VPi_vksSkNKWkW0B0Fv3Gc"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = [
+    ".ap-northeast-2.compute.amazonaws.com"
+]
 
 
 # Application definition
