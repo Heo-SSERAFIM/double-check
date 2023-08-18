@@ -45,7 +45,7 @@ YOUTUBE_API_KEY = "AIzaSyCMHMYV3ug24VPi_vksSkNKWkW0B0Fv3Gc"
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    ".ap-northeast-2.compute.amazonaws.com"
+    ".us-east-2.compute.amazonaws.com"
 ]
 
 
