@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c04e91a.css",
+    "main.js": "/static/js/main.2c014357.js",
+    "static/media/main.svg": "/static/media/main.4a4fa69112845b336186dd69000ca561.svg",
+    "static/media/phone.svg": "/static/media/phone.fb1186819f6f8d46a2e5986277e0b61f.svg",
+    "static/media/logo.svg": "/static/media/logo.ec374458876c5391fd099d4cfcb3a412.svg",
+    "static/media/howto.png": "/static/media/howto.ad0acc1d102812832afa.png",
+    "static/media/com.svg": "/static/media/com.62372fa2896fc16e2d4a1e8d107ead0a.svg",
+    "static/media/chat.png": "/static/media/chat.1eb2516a7a459f020107.png",
+    "static/media/hmm.gif": "/static/media/hmm.1bb2ba34851cc0b8e0f7.gif",
+    "static/media/report.svg": "/static/media/report.9c7cf68b19e1446e06e0e26a009eb7e0.svg",
+    "static/media/icon_up_.svg": "/static/media/icon_up_.ff0d068082e8a7e9087703fd7442e722.svg",
+    "static/media/icon_down_.svg": "/static/media/icon_down_.73008ab1529394e8808e7d1c7055f87a.svg",
+    "index.html": "/index.html",
+    "static/media/default.svg": "/static/media/default.4b3d06c0055eb32c2297d04394601bdf.svg",
+    "main.5c04e91a.css.map": "/static/css/main.5c04e91a.css.map",
+    "main.2c014357.js.map": "/static/js/main.2c014357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c04e91a.css",
+    "static/js/main.2c014357.js"
+  ]
+}

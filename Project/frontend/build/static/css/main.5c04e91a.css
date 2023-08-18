@@ -1,0 +1,2 @@
+.AboutSection1_Floating{-webkit-animation:floating linear infinite;animation:floating linear infinite;-webkit-animation-duration:2.6s;animation-duration:2.6s}@-webkit-keyframes floating{0%,to{-webkit-transform:translateY(-10%);transform:translateY(-10%)}50%{-webkit-transform:translateY(10%);transform:translateY(10%)}}@keyframes floating{0%,to{-webkit-transform:translateY(-10%);transform:translateY(-10%)}50%{-webkit-transform:translateY(10%);transform:translateY(10%)}}
+/*# sourceMappingURL=main.5c04e91a.css.map*/
